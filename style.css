@@ -1,0 +1,147 @@
+body{
+    font-family: 'Fredoka One', cursive;
+    margin: 0%;
+    color: rgba(0, 0, 0, 0.507) ;
+}
+
+.top-part{
+    display: flex;
+    /* border: 1px solid red; */
+}
+h1{
+    margin: 0;
+    font-size: 75px;
+}
+h2{
+    margin: 0;
+    font-size: 45px;
+}
+
+p{
+    font-size: 25px;
+    font-weight: 100;
+    margin: 0;
+
+}
+
+.top-left{
+    /* border: 1px solid red; */
+    padding-top: 15%;
+    padding-left: 40px;
+}
+
+span{
+    color: orange;
+}
+
+.top-right{
+    /* border: 1px solid red; */
+    padding-top: 5%;
+}
+
+.mid-part{
+    /* border: 1px solid red; */
+    display: flex;
+    background-image: url(eat-healthy-main/images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+
+
+.mid-left img{
+    /* border: 1px solid red; */
+    width: 110%;
+    padding-left: 50%;
+    padding-top: 10%;
+}
+
+.mid-right{
+    /* border: 1px solid red; */
+    padding-left: 19%;
+    padding-right: 10%;
+    padding-top: 10%;
+    text-align: justify;
+}
+
+.bot-part{
+    display: flex;
+    /* border: 1px solid red; */
+}
+
+.bot-mid{
+    /* border: 1px solid red; */
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.last-part{
+    display: flex;
+
+    /* border: 1px solid red; */
+    margin-left: 10%;
+    padding-right: 2%;
+
+}
+
+.last-half img{
+    width: 100%;
+    border-radius: 20px;
+
+}
+.last-half{
+    /* border: 1px solid red; */
+    width: 40%;
+    color: black;
+    margin: 1%;
+    padding: 2%;
+    padding-right: 30px;
+    box-shadow: 2px 10px 20px 10px rgb(186, 182, 182);
+    border-radius: 20px; 
+}
+
+.final{
+    
+    /* border: 1px solid red; */
+    padding: 5%;
+    display: flex;
+    color: black;
+    width: 70%;
+    margin-left: 11%;
+    box-shadow: 5px 2px 5px 10px rgba(128, 128, 128, 0.329);
+    border-radius: 40px;
+    
+}
+
+.final-touch{
+    /* border: 1px solid red; */
+    padding-left: 9%;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    padding-bottom: 5%;
+    padding-top: 1%;
+}
+
+footer h4{
+    color: aliceblue;
+    font-size: 27px;
+    padding: 1%;
+}
+footer p{
+    color: aliceblue;
+    font-size: 18px;
+}
+
+button{
+      background-image: linear-gradient(tomato,orange);
+    border: 0;
+    color: white;
+    box-shadow: 2px 2px 10px 10px rgba(255, 166, 0, 0.144);
+    font-size: large;
+    border-radius: 40px;
+    padding: 3% 6%;
+}
